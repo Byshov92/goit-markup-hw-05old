@@ -125,7 +125,7 @@ body {
   background: var(--accent-color);
   border-radius: 2px;
 }
-.contactlist {
+.contact-list {
   display: flex;
   align-items: center;
   margin-left: auto;
